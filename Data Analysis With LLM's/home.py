@@ -8,7 +8,7 @@ import re
 
 # ------------------------------------------------------------------------------------------------------------------
 
-api_key = "AIzaSyAQePNFLHVvEKs1wRejFNMgcych_ikHCFs"
+api_key = "Replace with your Gemini API Key!"
 
 st.title(":rainbow[AI-Powered Data Analysis and Visualizations] 🤖")
 csv_file = st.file_uploader('Load Your CSV File Here...', type=['csv'])
